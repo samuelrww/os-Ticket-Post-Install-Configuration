@@ -108,11 +108,12 @@ a.)Set up your information using the .80 website located in the IIS application 
 <br />
 
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
 <p>
 You will now install files from the browser!
   You have now completed installation.
+</p>
+<p>
+<img src="https://i.imgur.com/cqI9jLI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
